@@ -1,0 +1,15 @@
+Trabajo 1
+
+https://tn.com.ar/sociedad/2021/02/08/imc-que-es-y-como-se-calcula/?outputType=amp
+
+1 - Leer la nota
+2 - Armar un programa sobre dicha nota.
+        a - Determinar cuales son los datos de entrada para el imc.
+        b - Calcular el IMC.
+        c - Calcular estado (Delgadez - Normal - Obesidad etc)
+        d - Informar IMC y Estado.
+
+
+Dudas:
+ (divide el peso de cada persona por la altura) al cuadrado
+ divide el peso de cada persona por la (altura al cuadrado)

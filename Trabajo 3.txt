@@ -1,0 +1,11 @@
+- Realizar un proyecto Sprinboot con una página html thymeleaf que permita 
+    calcular el indice de masa corporal.
+
+        - Armar proyecto.
+        - Crear página html thymeleaf con css.
+        - Armar controlador Web que permita mostrar la página 
+                y en calculo IMC y el estado.
+
+
+
+
